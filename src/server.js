@@ -81,3 +81,5 @@ models.initDatabase();
 app.listen(8080);
 
 console.log('Aplicação rodando na porta 8080');
+
+// Comentário qualquer atualizado
